@@ -1,0 +1,5 @@
+ultralytics>=8.4
+opencv-python
+# Only needed to run the training script (gaydar.py)
+scikit-learn
+pyyaml

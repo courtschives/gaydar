@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+# Generated outputs / local data
+runs/
+*_detections.csv
+!examples/*_detections.csv
+output*.avi
+demo*.avi
+capture.png
+data.zip
+custom_data/
+kfold/

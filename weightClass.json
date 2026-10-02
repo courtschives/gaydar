@@ -1,0 +1,66 @@
+[
+  {
+    "label": "baggyAssPant",
+    "weightClass": "regular"
+  },
+  {
+    "label": "bigAssShorts",
+    "weightClass": "regular"
+  },
+  {
+    "label": "carabiner",
+    "weightClass": "super"
+  },
+  {
+    "label": "collarOrButtons",
+    "weightClass": "high"
+  },
+  {
+    "label": "drasticMakeup",
+    "weightClass": "regular"
+  },
+  {
+    "label": "funkyBrows",
+    "weightClass": "regular"
+  },
+  {
+    "label": "gayAssHat",
+    "weightClass": "regular"
+  },
+  {
+    "label": "gayAssPiercing",
+    "weightClass": "regular"
+  },
+  {
+    "label": "hightop",
+    "weightClass": "high"
+  },
+  {
+    "label": "largeJewelry",
+    "weightClass": "high"
+  },
+  {
+    "label": "lineUp",
+    "weightClass": "super"
+  },
+  {
+    "label": "locs",
+    "weightClass": "regular"
+  },
+  {
+    "label": "mulletsNFlow",
+    "weightClass": "regular"
+  },
+  {
+    "label": "muscleTee",
+    "weightClass": "regular"
+  },
+  {
+    "label": "vest",
+    "weightClass": "high"
+  },
+  {
+    "label": "yourBoxersAreShowing",
+    "weightClass": "regular"
+  }
+]
