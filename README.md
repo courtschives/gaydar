@@ -1,8 +1,6 @@
 # gaydar
 
-A custom YOLO object detector that runs on CCTV-style video and flags clothing, hair and accessory styles common in sapphic / masc-of-center fashion: carabiners, line-ups, vests, hightops and so on. Each frame's detections are combined into a 0–100 **Sapphic Visual Signal** meter that's drawn on the video, and every detection is logged to a CSV that TouchDesigner (or anything else) can read.
-
-> The model detects **objects and styles**, not people or identities. A high score means "lots of these visual signals are in frame". It says nothing about who anyone actually is.
+A custom YOLO object detector designed to identify sapphic visual signals. Each frame's detections are combined into a 0–100 **Sapphic Visual Signal** meter that's drawn on the video, and every detection is logged to a CSV that TouchDesigner (or anything else) can read.
 
 ## Example output
 
